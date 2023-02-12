@@ -8,7 +8,7 @@ export default function Header(props: Props) {
       <section className="logo-header">
         <div className="logo">
           <NavLink className={"logo-link"} to="">
-            <img src="./img/logo.png" alt="logo"></img>
+            <img src="./img/logo.png" alt="logo" />
           </NavLink>
         </div>
         <div className="nav-bar-search">
